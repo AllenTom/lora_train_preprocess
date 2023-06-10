@@ -1,0 +1,5 @@
+assets/*.pt
+assets/*.pth
+venv
+*.pyc
+/.idea
