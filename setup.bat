@@ -7,6 +7,3 @@ IF NOT EXIST venv (
 call .\venv\Scripts\activate.bat
 
 pip install --use-pep517 --upgrade -r requirements.txt
-
-echo "安装成功"
-```
